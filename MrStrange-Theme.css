@@ -106,6 +106,22 @@
 	border-radius:90px;
 	color:white;
 }
+.userPopout-3XzG_A .avatarWrapper-3H_478[user_by_bdfdb*="741239951353708576"]+.headerText-2sdzFM .headerTag-2pZJzA:after {
+	content: 'MaTin';
+	position: absolute;
+	right: 11px;
+	border-radius: 2px;
+	color: var(--accent);
+	font-size: var(--size4);
+	font-weight: 500;
+	height: 1.28em;
+	padding: .072rem .275rem;
+	line-height: 1.28em;
+	background: #000303;
+	z-index: 2;
+	border-radius:90px;
+	color:gold;
+}
 
 .inner-1ilYF7.da-inner > [user_by_bdfdb="575933571186032641"] > div >.header-QKLPzZ.da-header {
     background: url('https://media.discordapp.net/attachments/596410225553047583/782341783626842142/unknown.png?width=1026&height=185');
